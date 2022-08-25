@@ -1,0 +1,26 @@
+{
+    "name": "Theme Viindoo Manufacturing Automotive",
+    "name_vi_VN": "Chủ đề cho website Viindoo Manufacturing Automotive",
+    "summary": "Theme, Snippets for website Viindoo Manufacturing Automotive",
+    "summary_vi_VN": "Chủ đề, các snippet cho website Viindoo Manufacturing Automotive",
+    "description": "Theme for website Viindoo Manufacturing Automotive",
+    "description_vi_VN": "Chủ đề, giao diện cho website Viindoo Manufacturing Automotive",
+    "author": "Viindoo",
+    "website": "https://viindoo.com/",
+    "live_test_url": "https://about.viindoo.com",
+    "support": "apps.support@viindoo.com",
+    "category": "Theme/Corporate",
+    "sequence": 10,
+    "version": "0.2",
+    "depends": ['website','web_editor'],
+    "data": [
+        'views/snippets/website_templates.xml',
+        'views/snippets/s-carousel.xml',
+    ],
+    "installable": True,
+    "application": False,
+    "auto_install": False,
+    "price": 99.9,
+    "currency": "EUR",
+    "license": "OPL-1"
+}
